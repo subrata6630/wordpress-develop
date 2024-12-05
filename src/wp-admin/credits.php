@@ -120,6 +120,7 @@ $credits = wp_credits();
 			<?php wp_credits_section_list($credits, 'libraries'); ?>
 		</div>
 	</div>
+
 	<hr />
 </div>
 <?php
